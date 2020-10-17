@@ -1,2 +1,2 @@
-# ZiggyKeyGenMe
-Collection of Python Scripts for Ziggy's KeyGenMe Challenges
+# KeyGenMe Solves
+Collection of solutions for KeyGenMe and CrackMes that I've completed
